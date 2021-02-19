@@ -9,7 +9,7 @@ apply plugin: 'idea'
 apply plugin: 'maven-publish'
 
 group = projectGroup
-version = libraryVersion
+version = projectVersion
 sourceCompatibility = sourceCompatibility
 
 repositories {
